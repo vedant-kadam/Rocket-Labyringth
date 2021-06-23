@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 3eb91767aad62c24a8dd72bc61b8161c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Inversionz
+  fontNames:
+  - Inversionz
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 10c2ffc2333a30f45b880b9338265081, type: 3}
+  - {fileID: 12800000, guid: 0228fa8478a3e8d44bf0fd80504f128d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
